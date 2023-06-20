@@ -1,3 +1,4 @@
+import { CurrentWeather } from '../weatherComponent/CurrentWeather'
 @Entry
 @Component
 struct Index {
@@ -8,6 +9,7 @@ struct Index {
       Text('当前天气')
         .fontSize(50)
         .fontWeight(FontWeight.Bold)
+      CurrentWeather()
       Text('今日空气质量')
         .fontSize(50)
         .fontWeight(FontWeight.Bold)
