@@ -6,7 +6,19 @@
     },
     {
       "name": "baseFontColor",
-      "value": "#000000"
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "weatherCardTitle",
+      "value": "#60FFFFFF"
+    },
+    {
+      "name": "weatherCardBack",
+      "value": "#205392c8"
+    },
+    {
+      "name": "weatherCardShadow",
+      "value": "#30010b30"
     }
   ]
 }
