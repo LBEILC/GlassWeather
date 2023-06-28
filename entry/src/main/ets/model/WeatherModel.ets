@@ -17,3 +17,8 @@ export class CurrentWeatherModel {
   cloud?: string // 	云量，百分比数值。可能为空
   dew?: string // 露点温度。可能为空
 }
+
+export class AirQualityData{
+  aqi:string
+  category:string
+}
